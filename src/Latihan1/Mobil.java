@@ -20,8 +20,8 @@ public class Mobil extends Kendaraan {
     @Override
     public void displayInfo() {
         super.displayInfo();
-        System.out.println("Jumlash Pintu: " + jumlah Pintu);
-        System.out.println("Bahan Bakar:" + Bahan Bakar);
+        System.out.println("Jumlah Pintu: " + jumlahPintu);
+        System.out.println("Bahan Bakar:" + jenisBahanBakar);
 
         // TODO: Panggil super.displayInfo() terlebih dahulu
         // TODO: Tambahkan informasi spesifik Mobil
